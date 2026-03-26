@@ -1,16 +1,69 @@
-## Hi there 👋
+#  Hi, I'm Shruti Singh
 
-<!--
-**ShrutiNOVA/ShrutiNOVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer | Hackathon Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+*  19-year-old tech enthusiast exploring **DSA, AI, and real-world projects**
+*  Currently participating in hackathons (Meta PyTorch, Hyperbots, etc.)
+*  Learning **statistics, financial literacy, and investing**
+*  Goal: Build skills + multiple income streams & reach **₹1 Crore before 22**
+*  I believe in *learning → building → sharing*
+
+---
+
+##  What I'm Working On
+
+*  Improving **Data Structures & Algorithms problem-solving**
+*  Building projects using **AI + OCR + APIs**
+*  Working on **document processing / finance automation projects**
+*  Planning to create **content on financial literacy & tech**
+
+---
+
+##  Tech Stack
+
+*  Languages: `Java` | `Python` (learning & improving)
+*  Tools: `Git` | `GitHub` | `Docker`
+*  Exploring: `AWS` | APIs | OCR systems
+*  Currently Learning:
+
+  * DSA (logic building & approaches)
+  * AI integrations in real-world problems
+
+---
+
+##  Achievements & Activities
+
+*  Participated in **hackathons & tech events**
+*  Networking on LinkedIn with founders & professionals
+*  Actively working on self-growth: tech + finance
+
+---
+
+##  2026 Goals
+
+* Crack strong grip on **DSA**
+* Build **3–5 solid real-world projects**
+* Start earning through **side income streams**
+* Grow a **personal brand (LinkedIn / YouTube)**
+* Reach first major financial milestone 
+
+---
+
+##  Let's Connect
+
+*  LinkedIn: www.linkedin.com/in/shrutisingh025
+*  Email: shrutising025@gmail.com
+
+---
+
+##  Fun Fact
+
+I’m not just learning tech… I’m building a **life system** 
+
+---
+
+ *“Consistency > Motivation”*
