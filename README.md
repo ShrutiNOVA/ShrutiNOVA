@@ -42,7 +42,17 @@
 *  Actively working on self-growth: tech + finance
 
 ---
+Current Focus
 
+📌 DSA          █████████░░░░░  (Improving daily)
+
+📌 AI Projects  ███████░░░░░░░  (Building phase)
+
+📌 Finance      ████████░░░░░░  (Learning + applying)
+
+📌 Content      ███░░░░░░░░░░░  (Planning stage)
+
+---
 ##  2026 Goals
 
 * Crack strong grip on **DSA**
