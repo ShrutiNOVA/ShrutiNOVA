@@ -9,7 +9,7 @@
 *  19-year-old tech enthusiast exploring **DSA, AI, and real-world projects**
 *  Currently participating in hackathons (Meta PyTorch, Hyperbots, etc.)
 *  Learning **statistics, financial literacy, and investing**
-*  Goal: Build skills + multiple income streams & reach **₹1 Crore before 22**
+*  Goal: Build skills + multiple income streams 
 *  I believe in *learning → building → sharing*
 
 ---
