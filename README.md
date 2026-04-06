@@ -79,5 +79,6 @@ I’m not just learning tech… I’m building a **life system**
  *“Consistency > Motivation”*
 
  ## 📈 Contribution Graph
+## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNOVA&theme=react-dark)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNOVA&theme=react-dark&bg_color=0d1117&color=00ffff&line=9b5de5&point=ffffff)
