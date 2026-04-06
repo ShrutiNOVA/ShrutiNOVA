@@ -83,7 +83,3 @@ I’m not just learning tech… I’m building a **life system**
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiNOVA&theme=react-dark&bg_color=0d1117&color=00ffff&line=9b5de5&point=ffffff)
 
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ShrutiNOVA/ShrutiNOVA/blob/output/github-contribution-grid-snake.svg)
